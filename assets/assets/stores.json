@@ -1,0 +1,14 @@
+{
+    "Apple": {
+        "url": "https://apple.com/",
+        "checkout_urls" : ["https://www.apple.com/shop/bag"]
+    },
+    "Amazon" : {
+        "url": "https://amazon.com/",
+        "checkout_urls" : ["https://www.amazon.com/gp/cart/view.html", "https://www.amazon.com/gp/aw/c?ref_=navm_hdr_cart"]
+    },
+    "Raymore & Flanagen" : {
+        "url": "https://www.raymourflanigan.com/",
+        "checkout_urls" : ["https://www.raymourflanigan.com/cart"]
+    }
+}
